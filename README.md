@@ -15,7 +15,7 @@
 
 - 📫Mande um Oi! **joaosgobero@gmail.com**
 
-- ⚡ Curiosidades **Amo leitura, e maratonar séries (Quando o dever não chama clado 🦸‍♂️).**
+- ⚡ Curiosidades **Amo leitura, e maratonar séries (Quando o dever não chama claro 🦸‍♂️).**
 
 <br/> 
 <div> 
