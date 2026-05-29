@@ -54,8 +54,8 @@ Com um forte background em desenvolvimento de software (Front-end/Full-stack) e 
 ## 📊 Meu Impacto em Números (GitHub Status)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joao-sgobero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="João's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-sgobero&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=joao-sgobero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="João's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joao-sgobero&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
 </p>
 
 ---
