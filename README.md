@@ -59,8 +59,6 @@ Com um forte background em desenvolvimento de software (Front-end/Full-stack) e 
 
 ---
 
----
-
 ### ⚡ Filosofia de Trabalho
 > *"Dados sem modelagem e contexto são apenas ruído. O papel do Analytics Engineer não é apenas mover dados de um lugar para o outro, mas garantir que a verdade analítica da empresa seja escalável, auditável e extremamente acessível."*
 README.md
