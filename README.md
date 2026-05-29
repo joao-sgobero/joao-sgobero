@@ -1,65 +1,152 @@
-<img align="center" alt="Joao-apresentacao" height="500px" width="auto" src="https://i.imgur.com/SrSzEs2.png">
 
-<h1 align="center">Hello World👨🏽‍💻</h1>
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, sou João Henrique S. Balbino</h1>
-<h3 align="center">Um desenvolvedor Front-end do Brasil, apaixonado por tecnologia.</h3>
-
-
-## 🙋‍♂️ Sobre mim
-
-- 🔭 Me chamo João Henrique e sou do interior de Rondônia.
-
-- 👯 Procuro colaborar com projetos **OpenSource** e aprender com a comunidade!
-
-- 👨‍💻 Sou um desenvolvedor Front-end, e também criador de conteúdo sobre **Programação** e **Marketing Digital**
-
-- 📫Mande um Oi! **joaosgobero@gmail.com**
-
-- ⚡ Curiosidades **Amo leitura, e maratonar séries (Quando o dever não chama claro 🦸‍♂️).**
-
-<br/> 
-<div> 
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/joao_sgobero" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:joaosgobero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
- <br/>
-
-## 🚀 Linguagens e Ferramentas:
-
-<div style="display: inline_block"><br>
- <img align="center" alt="Joao-Js" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-Ts" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Joao-React" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Joao-HTML" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-redux" height="40" width="48" src="https://img.icons8.com/color/48/000000/redux.png"/>
-  <img align="center" alt="Joao-MirageJS" height="40" width="48"src="https://i.imgur.com/e0sUMIC.jpg"/>
-  <img align="center" alt="Joao-Style-Components" height="40" width="48"src="https://i.imgur.com/Ucw9XCV.png"/>
-  <img align="center" alt="Joao-NextJS" height="40" width="48"src="https://i.imgur.com/LJVWw0h.png"/>
-  <img align="center" alt="Joao-Jamstack" height="40" width="48"src="https://i.imgur.com/NKuVC0H.png"/>
-  <img align="center" alt="Joao-Node" height="40" width="48"src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img align="right" alt="Joao-Avatar" height="200px" width="auto" src="https://i.imgur.com/LQeNG9p.png">
-</div>
-
-<br/>
-
-## 📊 Meu Github Status
-
-  <br/>
-    <a href="https://github.com/joao-sgobero/"><img alt="João Sgobero Github Status" src="https://github-readme-stats.vercel.app/api?username=joao-sgobero&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/joao-sgobero/"><img alt="João Sgobero Top Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-sgobero&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <br/>
-  <b>Note:</b> As principais linguagens de programação são apenas uma métrica das linguagens em que meu código público consiste e não reflete a experiência ou o nível de habilidade.
+Gemini
+Nova conversa
+Pesquisar conversas
+Biblioteca
+Novo notebook
+Psychology for Beginners: Understanding Behavior and Mental Processes
+SQL Subqueries: Semi, Anti, and Positional Joins
+Todos os notebooks
+olhe esse readme que merda kkkkk antigão. queria criar algo novo, para o cargo de analytics engeenier, a nivel profissional tipo um dev do nubank ou algo assim pode criar pra mim um novo readme?
+Exercícios de Programação Python Comentados
+Montando Terminal Pika no Windows
+Instalar Aura Theme no Windows Terminal
+Modelos de Software White Label e Código
+Operador += em Python: Atribuição Aumentada
+Soma de Números Fornecidos
+Imposto de Renda Processado: Restituição Confirmada
+Python: Invertendo Sequências com Fatiamento
+Usando LIKE no SQL
+Correção de Erro SQL em Datas
+gemini quando vou usar order by? só em alias?
+SQL: Encontrar Nomes Repetidos
+Python: Manipulação de Strings com Replace e Lower
+Lógica Booleana Python em Projetos Reais
+Separando Data em Python com Split
+Remover Espaços de Strings em Programação
+Docker Engine Travado: Solução WSL
+Custo de 1.5 KC no Wartele
+Ajuda Com Problema ou Perrengue
+Python: Interpolação de Strings Explicada
+olhe essa imagem, retire todos os textos dela, deixe o restante identico
+Impacto de Ataque a Infraestrutura Iraniana
+Estratégia de Lançamento de Curso ETL/IA
+Ver e Configurar E-mail Git
+Reiniciar Trilha DataCamp: Como Fazer
+Tempo para Analista de Dados Python
+Acesso ManyChat: Ver Contatos Sem Mensagens
+Erro Git: `src refspec main`
+iFood: Estabelecimentos e Entregadores
+Morfina em Soldados: Riscos e Alternativas
+Create new rebranding Firefox browser
+Consultar Dono de Veículo: Limites e Alternativas
+Criação de Post Educativo Pediátrico
+Conversa com o Gemini
+olhe esse readme que merda kkkkk antigão.
 
 
-<br/>
-<br/>
 
-<a href="https://github.com/joao-sgobero/github-readme-activity-graph"><img alt="João Sgobero Gráfico de atividade" src="https://activity-graph.herokuapp.com/graph?username=joao-sgobero&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+queria criar algo novo, para o cargo de analytics engeenier, a nivel profissional tipo um dev do nubank ou algo assim pode criar pra mim um novo readme?
 
-<br/>
-<br/>
+Com certeza! O seu README antigo tinha aquela pegada clássica de desenvolvedor Front-end iniciante (com muitos emojis, imagens genéricas e foco em layout). Para se posicionar como um Analytics Engineer de alto nível (padrão Nubank, Itaú ou Big Techs), o seu perfil precisa respirar dados, governança, infraestrutura moderna e valor de negócio.
+
+O novo README foca no ecossistema da Modern Data Stack (MDS), destacando ferramentas fundamentais como dbt, SQL avançado, Python, Data Warehouses (BigQuery/Snowflake) e Orquestradores (Airflow), além de trazer uma estética muito mais limpa, profissional e madura.
+
+Seu arquivo Markdown (README.md) novo e profissional está pronto para download abaixo:
+
+Seu arquivo Markdown (MD) está pronto
+Ícone do app MD
+ README 
+MD
+
+💡 O que mudou e por quê?
+Badges Profissionais: Substituímos aqueles botões coloridos por badges oficiais e padronizadas de tecnologias do mercado de dados. Isso dá um visual muito mais limpo e "sênior".
+
+Definição de Papel Clara: Logo no início você se posiciona na interseção entre engenharia e negócios. É exatamente isso que tech recruiters de grandes empresas procuram em um Analytics Engineer.
+
+Divisão Técnica por Domínio: Em vez de listar linguagens soltas, as ferramentas agora estão separadas por utilidade (Transformação, Cloud/DW, BI e Engenharia de Software).
+
+Foco em Projetos e Impacto: Adicionei uma seção para você linkar seus projetos principais. Para Analytics Engineering, projetos com dbt, camadas de modelagem (Staging, Intermediate, Marts) e Data Quality contam muito mais do que códigos avulsos.
+
+Métricas Sofisticadas: O tema dos gráficos do GitHub Status foi atualizado para uma paleta escura moderna (Tokyonight), combinando com perfis mais avançados de tecnologia.
+
+🛠️ Como usar:
+Baixe o arquivo README.md gerado.
+
+Abra o arquivo no seu editor (VS Code, por exemplo).
+
+Ajuste os links do seu LinkedIn, portfólio ou repositórios específicos nos locais indicados por https://github.com/ ou https://linkedin.com/.
+
+Copie o código e cole no repositório do seu perfil do GitHub (o repositório com o mesmo nome do seu usuário).
+
+
+
+
+O Gemini é uma IA e pode cometer erros.
+
+# 📊 Olá, eu sou o João Henrique S. Balbino
+### **Analytics Engineer | Transformando Dados Brutos em Inteligência de Negócio**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaosgobero@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+---
+
+## 🚀 Sobre Mim
+Atuo na intersecção entre a **Engenharia de Dados** e a **Análise de Negócios**. Minha missão é arquitetar e estruturar pipelines de dados robustos, modelar data warehouses eficientes e garantir que os times de negócio tomem decisões baseadas em dados confiáveis, performáticos e de alta qualidade.
+
+Com um forte background em desenvolvimento de software (Front-end/Full-stack) e paixão por tecnologia, transicionei minha carreira para focar na governança, modelagem (Data Vault, Star Schema) e transformação de dados em escala, adotando as melhores práticas do ecossistema moderno de dados (Modern Data Stack).
+
+- 📍 Natural de Rondônia, atuando globalmente.
+- 🛠️ Foco em escalabilidade, qualidade do dado (Data Quality) e self-service BI.
+- 💬 Vamos conversar? Me mande um e-mail em: **joaosgobero@gmail.com**
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### **Engenharia & Transformação de Dados (Analytics Engineering)**
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CE2?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
+### **Cloud & Data Warehousing**
+![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### **Visualização de Dados & Business Intelligence**
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+
+### **Práticas de Engenharia de Software**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-208838?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📈 Projetos em Destaque
+
+* **[Modern Data Stack E-Commerce Pipeline](https://github.com/)**: Construção de uma infraestrutura de dados ponta a ponta utilizando **Airbyte** para ingestão, **BigQuery** como DW, **dbt** para modelagem (camadas staging, intermediate e marts) e **Great Expectations** para testes de qualidade de dados.
+* **[Financial Data Model & Cohort Analysis](https://github.com/)**: Desenvolvimento de modelos de dados refinados no dbt para análises financeiras complexas (MRR, Churn, LTV) e dashboards executivos de alta performance.
+* **[Data Governance & Documentation Automations](https://github.com/)**: Implementação de esteiras de CI/CD via GitHub Actions para automatizar a geração de documentação e checagem de qualidade/cobertura de testes do dbt.
+
+---
+
+## 📊 Meu Impacto em Números (GitHub Status)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaosgobero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="João's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosgobero&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180px" />
+</p>
+
+---
+
+### ⚡ Filosofia de Trabalho
+> *"Dados sem modelagem e contexto são apenas ruído. O papel do Analytics Engineer não é apenas mover dados de um lugar para o outro, mas garantir que a verdade analítica da empresa seja escalável, auditável e extremamente acessível."*
+README.md
+Exibindo README.md.
